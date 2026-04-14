@@ -1,19 +1,15 @@
 <p align="center">
-  <h1 align="center">🎯 Regression & Feature Engineering</h1>
-  <p align="center">
-    Advanced Regression Modeling • Feature Engineering • Model Diagnostics
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=200&section=header&text=Regression%20and%20Feature%20Engineering&fontSize=38&fontColor=E6EEF3&animation=fadeIn&fontAlignY=40" />
 </p>
-
 <p align="center">
-  🎯 Regression Modeling &nbsp;|&nbsp; 🧠 Feature Engineering &nbsp;|&nbsp; 📊 Model Diagnostics
+  🎯 Predictive Modeling &nbsp;|&nbsp; 🧠 Feature Engineering &nbsp;|&nbsp; 📊 Regression Analytics
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/ML-scikit--learn-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Statistics-statsmodels-purple?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Feature%20Engineering-feature--engine-yellow?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Stats-statsmodels-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Features-Feature--engine-green?style=flat-square"/>
   <img src="https://img.shields.io/badge/Visualization-Plotly%20%7C%20Matplotlib-brightgreen?style=flat-square"/>
   <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square"/>
 </p>
@@ -22,9 +18,9 @@
 
 # 🎯 Regression & Feature Engineering
 
-An **advanced regression modeling toolkit** designed for **feature engineering, model selection, regularization, and statistical diagnostics**.
+An **advanced regression modeling toolkit** designed for **robust predictive modeling, automated feature engineering, and statistical diagnostics**.
 
-This project reflects how real-world data scientists build **robust predictive models with explainability and validation pipelines**.
+This project mirrors how **data scientists build, validate, and interpret regression models in production environments**.
 
 ---
 
@@ -34,11 +30,9 @@ The framework enables:
 
 - Multi-model regression benchmarking  
 - Automated feature engineering pipelines  
-- Regularization tuning (Ridge, Lasso, ElasticNet)  
-- Cross-validation and learning curves  
-- Residual diagnostics and statistical validation  
-
-Built to simulate **production-grade regression workflows used in analytics and machine learning systems**.
+- Regularization and hyperparameter tuning  
+- Statistical diagnostics and residual analysis  
+- Cross-validation and performance tracking  
 
 ---
 
@@ -47,41 +41,41 @@ Built to simulate **production-grade regression workflows used in analytics and 
 ### 📊 Multi-Model Comparison
 - Supports:
   - Linear Regression  
-  - Ridge Regression  
-  - Lasso Regression  
+  - Ridge  
+  - Lasso  
   - ElasticNet  
   - Polynomial Regression  
+- Compare model performance side-by-side  
 
 ### 🧠 Feature Importance Ranking
 - Coefficient-based importance  
-- Permutation importance  
-- Helps identify key predictive drivers  
+- Permutation importance analysis  
+- Identifies key drivers of predictions  
 
 ### 📉 Residual Diagnostics
-- Residual vs Fitted plot  
-- Q-Q plot for normality  
-- Scale-location plot  
-- Detects bias, variance, and heteroscedasticity  
+- Residual vs Fitted plots  
+- Q-Q plots (normality check)  
+- Scale-location plots (heteroscedasticity)  
 
 ### 🔁 Cross-Validation
-- K-fold validation  
+- K-Fold cross-validation  
 - Learning curve visualization  
-- Model generalization analysis  
+- Robust model evaluation  
 
-### 🎚️ Regularization Tuning
+### 🎛️ Regularization Tuning
 - Alpha parameter sweep  
-- Cross-validated error tracking  
-- Optimal model selection  
+- Bias-variance tradeoff analysis  
+- Visualization of CV error vs regularization  
 
 ### ⚙️ Automated Feature Engineering
+- Polynomial feature generation  
 - Interaction terms  
-- Polynomial features  
-- Feature binning  
-- Transformation pipelines  
+- Feature binning and transformation  
 
 ---
 
 ## 🧬 System Workflow
+
 
 Raw Dataset
 ↓
