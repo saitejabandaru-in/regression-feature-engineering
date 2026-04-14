@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Regression%20%26%20Feature%20Engineering&fontSize=36&fontColor=E6EEF3&animation=fadeIn&fontAlignY=40&color=0:134E5E,100:71B280" />
+</p>
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=200&section=header&text=Regression%20%26%20Feature%20Engineering&fontSize=38&fontColor=E6EEF3&animation=fadeIn&fontAlignY=40" />
 </p>
 
